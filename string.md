@@ -9,5 +9,5 @@ String is a very important tool in C.
 ```
 for (int i = 0; i < strlen(str); ++i) {
 	/* code here */     
-    }
+}
 ```
